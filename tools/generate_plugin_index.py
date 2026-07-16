@@ -10,7 +10,7 @@ from urllib.parse import quote
 from xml.etree import ElementTree
 
 
-OWNER = "SuperMonster002"
+OWNER = "SuperMonster003"
 REPO = "Auto.js-SDK-Plugins-Garage"
 BRANCH = "main"
 OUTPUT_FILE = "plugins.generated.json"

@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "source": "THIRD_PARTY",
   "repository": {
-    "owner": "SuperMonster002",
+    "owner": "SuperMonster003",
     "repo": "Auto.js-SDK-Plugins-Garage",
     "branch": "main"
   },
   "items": [
     {
       "packageName": "cn.lzx284.p7zip",
-      "iconUrl": "https://raw.githubusercontent.com/SuperMonster002/Auto.js-SDK-Plugins-Garage/refs/heads/main/cn.lzx284.p7zip/res/mipmap/ic_launcher.png",
+      "iconUrl": "https://raw.githubusercontent.com/SuperMonster003/Auto.js-SDK-Plugins-Garage/refs/heads/main/cn.lzx284.p7zip/res/mipmap/ic_launcher.png",
       "forceIgnoreLocalIcon": true,
       "title": "p7zip",
       "description": "7-Zip general-purpose compression plugin. Built on p7zip 16.02, it supports compression and extraction of files in multiple formats",
@@ -35,7 +35,7 @@
           "versionName": "1.2.1",
           "versionCode": 4,
           "versionDate": "2022-09-30",
-          "apkUrl": "https://github.com/SuperMonster002/Auto.js-SDK-Plugins-Garage/raw/refs/heads/main/cn.lzx284.p7zip/p7zip-1.2.1-build-4.apk",
+          "apkUrl": "https://github.com/SuperMonster003/Auto.js-SDK-Plugins-Garage/raw/refs/heads/main/cn.lzx284.p7zip/p7zip-1.2.1-build-4.apk",
           "apkSha256": "897d404384180e649338f5243eb7430d3c5c5239a9a9e4019d6ee0cb6a6dc30b",
           "apkSizeBytes": 6722958,
           "changelogText": "No release notes"
@@ -54,8 +54,8 @@
     },
     {
       "packageName": "com.hraps.ocr",
-      "iconUrl": "https://raw.githubusercontent.com/SuperMonster002/Auto.js-SDK-Plugins-Garage/refs/heads/main/com.hraps.ocr/res/mipmap/ic_launcher.png",
-      "nightIconUrl": "https://raw.githubusercontent.com/SuperMonster002/Auto.js-SDK-Plugins-Garage/refs/heads/main/com.hraps.ocr/res/mipmap-night/ic_launcher.png",
+      "iconUrl": "https://raw.githubusercontent.com/SuperMonster003/Auto.js-SDK-Plugins-Garage/refs/heads/main/com.hraps.ocr/res/mipmap/ic_launcher.png",
+      "nightIconUrl": "https://raw.githubusercontent.com/SuperMonster003/Auto.js-SDK-Plugins-Garage/refs/heads/main/com.hraps.ocr/res/mipmap-night/ic_launcher.png",
       "forceIgnoreLocalIcon": true,
       "title": "Ocr-AjPlugin",
       "description": "An OCR neural network based on PyTorch with DbNet + AngleNet + Rcnn, used for Android OCR recognition and as an extension plugin for the Auto.js Android development framework",
@@ -81,7 +81,7 @@
           "versionName": "1.0",
           "versionCode": 1,
           "versionDate": "2021-04-08",
-          "apkUrl": "https://github.com/SuperMonster002/Auto.js-SDK-Plugins-Garage/raw/refs/heads/main/com.hraps.ocr/ocr-aj-plugin-1.0-build-1.apk",
+          "apkUrl": "https://github.com/SuperMonster003/Auto.js-SDK-Plugins-Garage/raw/refs/heads/main/com.hraps.ocr/ocr-aj-plugin-1.0-build-1.apk",
           "apkSha256": "16f79ad5e27e04d4cbad1505eafebfdb6822f77fe232c7985cf21abc9cee707b",
           "apkSizeBytes": 16728767,
           "changelogText": "No release notes"
@@ -98,7 +98,7 @@
     },
     {
       "packageName": "com.hraps.pytorch",
-      "iconUrl": "https://raw.githubusercontent.com/SuperMonster002/Auto.js-SDK-Plugins-Garage/refs/heads/main/com.hraps.pytorch/res/mipmap/ic_launcher.png",
+      "iconUrl": "https://raw.githubusercontent.com/SuperMonster003/Auto.js-SDK-Plugins-Garage/refs/heads/main/com.hraps.pytorch/res/mipmap/ic_launcher.png",
       "forceIgnoreLocalIcon": true,
       "title": "Pytorch-AjPlugin",
       "description": "Mobile PyTorch development package, an Auto.js PyTorch mobile inference plugin",
@@ -124,7 +124,7 @@
           "versionName": "1.0",
           "versionCode": 1,
           "versionDate": "2021-04-07",
-          "apkUrl": "https://github.com/SuperMonster002/Auto.js-SDK-Plugins-Garage/raw/refs/heads/main/com.hraps.pytorch/pytorch-aj-plugin-1.0-build-1.apk",
+          "apkUrl": "https://github.com/SuperMonster003/Auto.js-SDK-Plugins-Garage/raw/refs/heads/main/com.hraps.pytorch/pytorch-aj-plugin-1.0-build-1.apk",
           "apkSha256": "4920ba2b7d4ef0b9bad2928588091946ccab81bcd02f7904561fa7e5f5b5d8ee",
           "apkSizeBytes": 73049812,
           "changelogText": "No release notes"
@@ -141,7 +141,7 @@
     },
     {
       "packageName": "com.tony.websocket",
-      "iconUrl": "https://raw.githubusercontent.com/SuperMonster002/Auto.js-SDK-Plugins-Garage/refs/heads/main/com.tony.websocket/res/mipmap/ic_launcher.png",
+      "iconUrl": "https://raw.githubusercontent.com/SuperMonster003/Auto.js-SDK-Plugins-Garage/refs/heads/main/com.tony.websocket/res/mipmap/ic_launcher.png",
       "forceIgnoreLocalIcon": true,
       "title": "websocket-plugin",
       "description": "A lightweight WebSocket plugin for Auto.js, implemented based on Java-WebSocket 1.5.7, supporting both client and server modes",
@@ -167,7 +167,7 @@
           "versionName": "1.0",
           "versionCode": 1,
           "versionDate": "2024-12-06",
-          "apkUrl": "https://github.com/SuperMonster002/Auto.js-SDK-Plugins-Garage/raw/refs/heads/main/com.tony.websocket/websocket-plugin-1.0-buid-1.apk",
+          "apkUrl": "https://github.com/SuperMonster003/Auto.js-SDK-Plugins-Garage/raw/refs/heads/main/com.tony.websocket/websocket-plugin-1.0-buid-1.apk",
           "apkSha256": "3e80097d2b5279e8373bf4995ea362da67265cedac206e52dda50eae6be0574e",
           "apkSizeBytes": 128264,
           "changelogText": "No release notes"
@@ -183,7 +183,7 @@
     },
     {
       "packageName": "org.autojs.plugin.ffmpeg",
-      "iconUrl": "https://raw.githubusercontent.com/SuperMonster002/Auto.js-SDK-Plugins-Garage/refs/heads/main/org.autojs.plugin.ffmpeg/res/mipmap/ic_launcher.png",
+      "iconUrl": "https://raw.githubusercontent.com/SuperMonster003/Auto.js-SDK-Plugins-Garage/refs/heads/main/org.autojs.plugin.ffmpeg/res/mipmap/ic_launcher.png",
       "forceIgnoreLocalIcon": true,
       "title": "FFmpegPlugin",
       "description": "Use FFmpeg to process audio/video files or streams, for media resource extraction or conversion",
@@ -209,7 +209,7 @@
           "versionName": "1.1",
           "versionCode": 1,
           "versionDate": "2022-09-04",
-          "apkUrl": "https://github.com/SuperMonster002/Auto.js-SDK-Plugins-Garage/raw/refs/heads/main/org.autojs.plugin.ffmpeg/ffmpeg-plugin-1.1-build-1.apk",
+          "apkUrl": "https://github.com/SuperMonster003/Auto.js-SDK-Plugins-Garage/raw/refs/heads/main/org.autojs.plugin.ffmpeg/ffmpeg-plugin-1.1-build-1.apk",
           "apkSha256": "b672a9b4b048a1447a64886a08668941014c5570e0851816314fa4dfd8a19fb8",
           "apkSizeBytes": 14644747,
           "changelogText": "No release notes"

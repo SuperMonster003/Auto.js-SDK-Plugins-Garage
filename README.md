@@ -8,4 +8,4 @@ Run the following command after changing plugin APKs, per-plugin `index.json`, i
 python tools/generate_plugin_index.py
 ```
 
-The command updates `plugins.generated.json`, a prebuilt index consumed by AutoJs6 Plugin Center. AutoJs6 can still fall back to scanning this repository tree when the generated index is unavailable.
+The command updates `plugins.generated.json`, a prebuilt index consumed by AutoJs6 Plugin Center.
