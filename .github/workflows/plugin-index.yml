@@ -1,0 +1,17 @@
+name: Plugin Index
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate plugin index
+        run: python3 tools/generate_plugin_index.py
+      - name: Check generated index
+        run: git diff --exit-code -- plugins.generated.json
